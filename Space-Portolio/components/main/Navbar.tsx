@@ -14,12 +14,17 @@ const Navbar = () => {
             src="/NavLogo.png"
             alt="logo"
             width={70}
-            height={70}
+            height={30}
             className="cursor-pointer hover:animate-slowspin"
           />
 
           <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-            WebChain Dev
+          <Image
+            src="/NavLogo1.png"
+            alt="logo"
+            width={100}
+            height={30}
+          />
           </span>
         </a>
 

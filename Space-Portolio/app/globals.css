@@ -48,7 +48,7 @@
 .button-primary:hover {
   background: linear-gradient(
       180deg,
-      rgba(60, 8, 126, 0) 0%,
+      rgba(138, 118, 165, 0) 0%,
       rgba(60, 8, 126, 0.42) 100%
     ),
     rgba(113, 47, 255, 0.24);
